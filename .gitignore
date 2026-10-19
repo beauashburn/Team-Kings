@@ -1,0 +1,11 @@
+# ignore cache and env
+__pycache__/
+*.pyc
+.venv/
+
+# Ignore Mac system files
+.DS_Store
+._*
+
+# SolidWorks temporary lock files
+~$*
